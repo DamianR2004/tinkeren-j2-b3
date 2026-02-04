@@ -1,23 +1,4 @@
 {
-  "name": "tinkeren-j2-b3",
-  "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/DamianR2004/tinkeren-j2-b3.git"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/DamianR2004/tinkeren-j2-b3/issues"
-  },
-  "homepage": "https://github.com/DamianR2004/tinkeren-j2-b3#readme",
-  "type": "module",
   "dependencies": {
     "@11ty/eleventy": "^3.1.2"
   }
