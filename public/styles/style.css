@@ -14,3 +14,9 @@ html, body{
   white-space: nowrap;
   width: 1px;
 }
+
+footer ul{
+  display: flex;
+  justify-content: space-evenly;
+  list-style: none;
+}
