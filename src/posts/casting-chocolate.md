@@ -52,6 +52,8 @@ Aan het begin vond ik het erg lastig om meteen te beginnen, dit omdat ik nog gee
 
 8. De tijd was al bijna om en toen zag ik dat er nog iets mist, namelijk de maan. Dus heb ik snel nog een figuurtje uitgesneden met de lasersnijder en deze erop geplakt. Hiermee was het houten gedeelte klaar en kon ik verder met het vacumeren.
    
+![De skyline zit op een houten base vast](/images/castingc7928.jpeg)
+   
 
 ## De plaat vacumeren
 
@@ -63,13 +65,50 @@ Aan het begin vond ik het erg lastig om meteen te beginnen, dit omdat ik nog gee
 
 ![opnieuw de vacuummachine gebruiken om de mal te maken](/images/castingc7930.jpeg)
 
+## De chocolade gieten
 
-## Videos
+11. Thuis ben ik verder gegaan met de mal, nu was het tijd om de chocolade erin te gieten!
+
+![pan](/images/castingc7952.jpeg)
+
+12. Alles in de magnetron doen leek mij geen goed idee, dus heb ik het bain-marie laten smelten. 
+
+![pan met chocola](/images/castingc7953.jpeg)
+
+13. Na een paar minuten ging de chocolade smelten, toen kwam ik er al snel achter dat 1 reep te weinig was om alles op te vullen. 
+
+![pan met gesmolten chocola](/images/castingc7954.jpeg)
+
+14. Toen alles gesmolten was kon ik het in de mal gieten, daarna zo strak mogelijk te plamuren. Dit ging erg lastig door de hoogte verschillen in de mal. Zo is de skyline veel hoger dan de skyline en huisjes.
+
+![mal opvullen met chocola](/images/castingc7956.jpeg)
+
+15.  Vervolgens heb ik het 20 minuten in de koelkast gezet om te laten stollen, dit ging goed en de choclade was hard genoeg om eruit te halen.
+
+![ogestolde chocolade uit de koelkast halen](/images/castingc7957.jpeg)
+
+![ogestolde chocolade uit de koelkast halen](/images/castingc7958.jpeg)
+
+16.   Toen ik de chocolade uit de mal probeerde te halen ging dit helaas niet zo goed, dit omdat ik echt te weinig chocolade had. Uiteindelijk heb ik het anders aangepakt en alleen de grote stukken eruit gehaald. Uiteindlijk was dit een leuk idee omdat ik nu een paar kleine huisjes had als chocolade.
+
+![huisjes van chocolade](/images/castingc7959.jpeg)
+
+## Wat ging er fout?
+
+Niet alles ging goed tijdens dit proces, wat niet erg was. Zo ging er in stap 4 en 5 wat mis, ik had niet goed gezaagd waardoor het erg lelijk was. Ook ging het chocolade er niet goed uit omdat er te weinig in zat.
+
+## Hoe heb ik getinkerd?
+
+Ik heb uiteindelijk anders gedacht, in plaats van dat ik in stap 5 opnieuw ging beginnen ging ik anders denken. Zo kwam ik op het idee om wolken en sterren in de lucht te maken. En voor de chocola om de huisjes apart te doen zodat ik kleine chocolaatjes had. 
+
+
+
+### Videos
 
 1. Describe your answer to this question: Emanuele Bardone (1) uses Tinkering differently than Blair Somerville (2). Where are the differences?
 2. Describe your answer to this question: “What is Tinkering?”
 
-## Feedback
+### Feedback
 
 Ask feedback to one classmate:
 

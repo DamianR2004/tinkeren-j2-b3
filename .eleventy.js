@@ -1,4 +1,5 @@
 module.exports = function(eleventyConfig) {
+  // Kopieer JS confetti uit node_modules
   eleventyConfig.addPassthroughCopy({
     "node_modules/js-confetti/dist/js-confetti.browser.js": "js/js-confetti.js"
   });
@@ -10,7 +11,6 @@ module.exports = function(eleventyConfig) {
     dir: {
       input: "src",
       output: "public",
-      includes: "_includes"
     }
   };
 };
