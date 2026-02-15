@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "@11ty/eleventy": "^3.1.2"
+    "@11ty/eleventy": "^3.1.2",
+    "js-confetti": "^0.13.1",
+    "markdown-it-anchor": "^9.2.0"
   }
 }

@@ -13,9 +13,21 @@
   </nav>
 </header>
 
+<script src="/js/js-confetti.js"></script>
+<script>
+  document.querySelector('a').addEventListener('mouseover', () => {
+    const jsConfetti = new JSConfetti();
+
+    jsConfetti.addConfetti({
+      emojis: ['🏠'],
+      emojiSize: 50,
+      confettiNumber: 30,
+    });
+  });
+</script>
   <main>
-    <section>
-      <h2 class="visually-hidden">De content</h2>
+      <div class="wrapper">
+        <div class="content-wrapper">
          
 <article>
   <h1>Dreaming in 3D</h1>
@@ -24,16 +36,28 @@
 
   <section>
     <h2 class="visually-hidden"></h2>
-  
+  <script src="/js/js-confetti.js"></script>
+<script>
+  window.addEventListener('DOMContentLoaded', () => {
+    const jsConfetti = new JSConfetti();
+    
+    // Vuur confetti af met chocolaatjes en vinkjes
+    jsConfetti.addConfetti({
+      emojis: ['⌱', '💭', '😴'],
+      emojiSize: 50,
+      confettiNumber: 30,
+    });
+  });
+</script>
   </section>
 </article>
 
-    </section>
+        </div>
+      </div>
   </main>
   <footer>
   <ul>
     <li>&copy; 2026 Damian Romeijn</li>
-    <li><a href="https://damianromeijn.nl">damianromeijn.nl</a></li>
     <li><a href="https://bydr.studio">bydr.studio</a></li>
   </ul>
 </footer>

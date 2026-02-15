@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="nl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Final reflection</title>
+  <link rel="stylesheet" href="/styles/style.css">
+</head>
+<body>
+  <header>
+  <nav>
+    <a href="/">Home</a>
+  </nav>
+</header>
+
+<script src="/js/js-confetti.js"></script>
+<script>
+  document.querySelector('a').addEventListener('mouseover', () => {
+    const jsConfetti = new JSConfetti();
+
+    jsConfetti.addConfetti({
+      emojis: ['🏠'],
+      emojiSize: 50,
+      confettiNumber: 30,
+    });
+  });
+</script>
+  <main>
+      <div class="wrapper">
+        <div class="content-wrapper">
+         
+<article>
+  <h1>Final reflection</h1>
+
+  
+
+  <section>
+    <h2 class="visually-hidden"></h2>
+  
+  </section>
+</article>
+
+        </div>
+      </div>
+  </main>
+  <footer>
+  <ul>
+    <li>&copy; 2026 Damian Romeijn</li>
+    <li><a href="https://bydr.studio">bydr.studio</a></li>
+  </ul>
+</footer>
+</body>
+</html>

@@ -15,7 +15,7 @@ Damian Romeijn
  <h2><a href="/posts/{{ post.data.slug }}/">{{ post.data.title }}</a></h2>
 
 {% if post.data.image %}
-<img src="{{ post.data.image }}" width="500"/>
+<img src="{{ post.data.image }}" width="400"/>
 {% endif %}
 
 </article>

@@ -13,23 +13,36 @@
   </nav>
 </header>
 
+<script src="/js/js-confetti.js"></script>
+<script>
+  document.querySelector('a').addEventListener('mouseover', () => {
+    const jsConfetti = new JSConfetti();
+
+    jsConfetti.addConfetti({
+      emojis: ['🏠'],
+      emojiSize: 50,
+      confettiNumber: 30,
+    });
+  });
+</script>
   <main>
-    <section>
-      <h2 class="visually-hidden">De content</h2>
+      <div class="wrapper">
+        <div class="content-wrapper">
          <h1>Tinkeren Procesboek</h1>
 <p>Damian Romeijn</p>
 <h2>Opdrachten</h2>
 <article>
- <h2><a href="/posts/dreaming-in-3d/">Dreaming in 3D</a></h2>
-</article>
-<article>
- <h2><a href="/posts/paper-circuits/">Paper circuits</a></h2>
-</article>
-<article>
  <h2><a href="/posts//"></a></h2>
 </article>
 <article>
+ <h2><a href="/posts/casting-chocolate/">Casting Chocolate</a></h2>
+<img src="/images/castingc7930.jpeg" width="400"/>
+</article>
+<article>
  <h2><a href="/posts/hybrid-mosaic/">Hybrid mosaic</a></h2>
+</article>
+<article>
+ <h2><a href="/posts/paper-circuits/">Paper circuits</a></h2>
 </article>
 <article>
  <h2><a href="/posts/ceramic-meets-digital/">Ceramic meets digital</a></h2>
@@ -38,16 +51,15 @@
  <h2><a href="/posts/moving-insects/">Moving insects</a></h2>
 </article>
 <article>
- <h2><a href="/posts/casting-chocolate/">Casting Chocolate</a></h2>
-<img src="/images/test.jpeg" width="500"/>
+ <h2><a href="/posts/final-reflection/">Final reflection</a></h2>
 </article>
 
-    </section>
+        </div>
+      </div>
   </main>
   <footer>
   <ul>
     <li>&copy; 2026 Damian Romeijn</li>
-    <li><a href="https://damianromeijn.nl">damianromeijn.nl</a></li>
     <li><a href="https://bydr.studio">bydr.studio</a></li>
   </ul>
 </footer>

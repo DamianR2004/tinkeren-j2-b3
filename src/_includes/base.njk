@@ -9,10 +9,11 @@
 <body>
   {% include "header.njk" %}
   <main>
-    <section>
-      <h2 class="visually-hidden">De content</h2>
+      <div class="wrapper">
+        <div class="content-wrapper">
          {{ content | safe }}
-    </section>
+        </div>
+      </div>
   </main>
   {% include "footer.njk" %}
 </body>
