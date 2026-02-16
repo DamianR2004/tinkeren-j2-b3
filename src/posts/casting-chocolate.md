@@ -117,10 +117,6 @@ Tinkeren is het aanpassen van een resultaat zonder dat je het probeert te maken.
 
 ### Feedback
 
-#### Wordt later toegevoegd.
-
-Ask feedback to one classmate:
-
 Samen met Zoë hebben we peer feedback aan elkaar gegeven, hier de resultaten.
 
 - Vond het goed bedacht dat je tijdens het eruit halen van de chocolade gewoon genoegen hebt genomen met wat er wel uitkwam en daarmee kleine chocolaatjes hebt gemaakt. 
@@ -133,8 +129,8 @@ Samen met Zoë hebben we peer feedback aan elkaar gegeven, hier de resultaten.
     const jsConfetti = new JSConfetti();
     jsConfetti.addConfetti({
       emojis: ['🍫', '🍫', '🪵', '⚒️', '🏢'],
-      emojiSize: 100,
-      confettiNumber: 50,
+      emojiSize: 50,
+      confettiNumber: 30,
     });
   });
 </script>
