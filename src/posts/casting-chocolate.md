@@ -121,13 +121,11 @@ Tinkeren is het aanpassen van een resultaat zonder dat je het probeert te maken.
 
 Ask feedback to one classmate:
 
-*What stood out to you in your peer’s tinkering process?* 
+Samen met Zoë hebben we peer feedback aan elkaar gegeven, hier de resultaten.
 
-*Where did you see evidence of experimentation or risk-taking?*
-
-*What could your peer try differently next time to push their tinkering further?*
-
-*How clearly did the video communicate the process (experiment, outcome, evaluation, inspiration)?*
+- Vond het goed bedacht dat je tijdens het eruit halen van de chocolade gewoon genoegen hebt genomen met wat er wel uitkwam en daarmee kleine chocolaatjes hebt gemaakt. 
+- ik vond het een goed experiment dat je tijdens het zagen erachter kwam dat het niet goed ging en gebruik maakte van wat er fout ging, door wolken te maken inplaats van een rechte lijn. 
+- je hebt met het hout voornamelijk 1 dikte gebruikt waardoor het ook fout ging met het vacuüm, misschien een idee om de volgende keer ook met verschillende diktes te spelen
 
 <script src="/js/js-confetti.js"></script>
 <script>
