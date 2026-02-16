@@ -101,7 +101,9 @@ Niet alles ging goed tijdens dit proces, wat niet erg was. Zo ging er in stap 4 
 
 Ik heb uiteindelijk anders gedacht, in plaats van dat ik in stap 5 opnieuw ging beginnen ging ik anders denken. Zo kwam ik op het idee om wolken en sterren in de lucht te maken. En voor de chocola om de huisjes apart te doen zodat ik kleine chocolaatjes had. 
 
+## Video van eindresultaat
 
+[Video](https://youtube.com/shorts/DpvVaNV5diY?si=INWS7lv88Lmz9_tD)
 
 ### Videos
 
