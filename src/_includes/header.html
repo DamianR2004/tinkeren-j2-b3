@@ -1,0 +1,18 @@
+<header>
+   <nav>
+      <a href="/">Home</a>
+   </nav>
+</header>
+
+<script src="/js/js-confetti.js"></script>
+<script>
+   document.querySelector('a').addEventListener('mouseover', () => {
+      const jsConfetti = new JSConfetti();
+
+      jsConfetti.addConfetti({
+         emojis: ['🏠'],
+         emojiSize: 100,
+         confettiNumber: 30,
+      });
+   });
+</script>

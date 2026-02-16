@@ -106,11 +106,16 @@ Ik heb uiteindelijk anders gedacht, in plaats van dat ik in stap 5 opnieuw ging 
 ### Videos
 
 1. Describe your answer to this question: Emanuele Bardone (1) uses Tinkering differently than Blair Somerville (2). Where are the differences?
+
+Volgens Emanuele Bardone is tinkering overal in te zetten, dus ook bij dingen van wetenschap. Ook kijkt hij er heel serieus en gestructureerd naar. Blair Somerville is echt veel creatiever en gebruikt het daarvoor. Ook probeert hij zich te richten op het recyclen van materialen. 
+
 2. Describe your answer to this question: “What is Tinkering?”
 
 Tinkeren is het aanpassen van een resultaat zonder dat je het probeert te maken. Dus als je tijdens het maken van een product iets fout doet dan werk je verder tot nieuwe ideeen, i.p.v. je het probeert te fixen of repareren.
 
 ### Feedback
+
+#### Wordt later toegevoegd.
 
 Ask feedback to one classmate:
 
@@ -128,7 +133,7 @@ Ask feedback to one classmate:
     const jsConfetti = new JSConfetti();
     jsConfetti.addConfetti({
       emojis: ['🍫', '🍫', '🪵', '⚒️', '🏢'],
-      emojiSize: 50,
+      emojiSize: 100,
       confettiNumber: 50,
     });
   });
