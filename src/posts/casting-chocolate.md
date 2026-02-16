@@ -108,6 +108,8 @@ Ik heb uiteindelijk anders gedacht, in plaats van dat ik in stap 5 opnieuw ging 
 1. Describe your answer to this question: Emanuele Bardone (1) uses Tinkering differently than Blair Somerville (2). Where are the differences?
 2. Describe your answer to this question: “What is Tinkering?”
 
+Tinkeren is het aanpassen van een resultaat zonder dat je het probeert te maken. Dus als je tijdens het maken van een product iets fout doet dan werk je verder tot nieuwe ideeen, i.p.v. je het probeert te fixen of repareren.
+
 ### Feedback
 
 Ask feedback to one classmate:
