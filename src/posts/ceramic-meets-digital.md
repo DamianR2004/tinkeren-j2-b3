@@ -41,48 +41,39 @@ Tijdens de presentatie over de opdracht werden verschillende voorbeelden uit de 
 
 ![De skyline zit op een houten base vast](/images/castingc7927.jpeg)
 
-8. In de tussentijd heb ik de vormpjes op stukjes klei gedrukt om 
+8. In de tussentijd heb ik de vormpjes op stukjes klei gedrukt om een patroon te maken, hier ging wel wat fout aangezien er geen gaten in de kaas of stukjes tomaat zaten.
    
 ![De skyline zit op een houten base vast](/images/castingc7928.jpeg)
    
 
-## De plaat vacumeren
-
-9. Bij het vacumeren moest je een aantal stappen volgen om hem erop te krijgen. Dit ging bijna goed, alleen de laatste stap mislukte bij mij namelijk de vacuummachine langer aanlaten. Dit was te kort waardoor de mold niet goed en diep genoeg was.
+9. Deze stukjes tomaat en kaas heb ik gelaten zoals het was, hier heb ik later nog wat aan gedaabn. 
 
 ![eerste keer de vacuummachine gebruiken](/images/castingc7929.jpeg)
 
-10. Dus heb ik het een tweede keer geprobeerd, deze keer met meer succes. Nu had ik de plastic plaat langer verwarmd en de machine langer aangezet. Nu zijn de gebouwen en skyline diep genoeg om er chocolade in te doen!
+10. Wel heb ik alvast de rondjes en stukjes kaas uitgesneden met een stanleymesje.
 
 ![opnieuw de vacuummachine gebruiken om de mal te maken](/images/castingc7930.jpeg)
 
-## De chocolade gieten
+## Verfen
 
-11. Thuis ben ik verder gegaan met de mal, nu was het tijd om de chocolade erin te gieten!
+11. Vervolgens ben ik weer verder gegaan met het verven van de salami, kaas en tomaten. Omdat ik het eerder verprutst heb met het maken van de gaatjes waren de ingrdienten nu heel makkelijk om te verfen. Dus was het uiteindelijk geen verkeerde keuze.
 
 ![pan](/images/castingc7952.jpeg)
 
-12. Alles in de magnetron doen leek mij geen goed idee, dus heb ik het bain-marie laten smelten. 
+12. Ook heb ik de bodem rood geverfd, dit moet dan de tomatensaus voorstellen.
 
 ![pan met chocola](/images/castingc7953.jpeg)
 
-13. Na een paar minuten ging de chocolade smelten, toen kwam ik er al snel achter dat 1 reep te weinig was om alles op te vullen. 
+13. Dit ging perongeluk mis, ik verfde ook een deel van de rand mee terwijl ik dit niet van plan was. Dus in plaats dat ik alles weghaalde heb ik alles maar geverfd.
 
 ![pan met gesmolten chocola](/images/castingc7954.jpeg)
 
-14. Toen alles gesmolten was kon ik het in de mal gieten, daarna zo strak mogelijk te plamuren. Dit ging erg lastig door de hoogte verschillen in de mal. Zo is de skyline veel hoger dan de skyline en huisjes.
+14. Tijd om alles weg te leggen en te laten drogen.
 
 ![mal opvullen met chocola](/images/castingc7956.jpeg)
 
-15.  Vervolgens heb ik het 20 minuten in de koelkast gezet om te laten stollen, dit ging goed en de choclade was hard genoeg om eruit te halen.
+15.  Een week later was dit het resultaat.
 
-![ogestolde chocolade uit de koelkast halen](/images/castingc7957.jpeg)
-
-![ogestolde chocolade uit de koelkast halen](/images/castingc7958.jpeg)
-
-16.   Toen ik de chocolade uit de mal probeerde te halen ging dit helaas niet zo goed, dit omdat ik echt te weinig chocolade had. Uiteindelijk heb ik het anders aangepakt en alleen de grote stukken eruit gehaald. Uiteindlijk was dit een leuk idee omdat ik nu een paar kleine huisjes had als chocolade.
-
-![huisjes van chocolade](/images/castingc7959.jpeg)
 
 ## Wat ging er fout?
 
@@ -95,16 +86,6 @@ Ik heb uiteindelijk anders gedacht, in plaats van dat ik in stap 5 opnieuw ging 
 ## Video van eindresultaat
 
 [Video](https://youtube.com/shorts/DpvVaNV5diY?si=INWS7lv88Lmz9_tD)
-
-### Videos
-
-1. Describe your answer to this question: Emanuele Bardone (1) uses Tinkering differently than Blair Somerville (2). Where are the differences?
-
-Volgens Emanuele Bardone is tinkering overal in te zetten, dus ook bij dingen van wetenschap. Ook kijkt hij er heel serieus en gestructureerd naar. Blair Somerville is echt veel creatiever en gebruikt het daarvoor. Ook probeert hij zich te richten op het recyclen van materialen. 
-
-2. Describe your answer to this question: “What is Tinkering?”
-
-Tinkeren is het aanpassen van een resultaat zonder dat je het probeert te maken. Dus als je tijdens het maken van een product iets fout doet dan werk je verder tot nieuwe ideeen, i.p.v. je het probeert te fixen of repareren.
 
 ### Feedback
 
