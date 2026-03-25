@@ -9,68 +9,103 @@ image: /images/mozaiek7974.jpeg
 
 ## Wat is de opdracht?
 
-Deze opdracht gaat over het maken van mozaiek, aan het begin kregen we uitleg over de verschillende stijlen van mozaiek. Daarna de opdracht zelf, je moest met verschillende soorten steenjes of andere materialen een patroon maken waar je later cement over kon doen. Dit zorgde ervoor dat er mozaiek ontstaat.
+Deze opdracht gaat over het maken van mozaïek. Aan het begin kregen we uitleg over de verschillende stijlen van mozaïek. Daarna de opdracht zelf: je moest met verschillende soorten steentjes of andere materialen een patroon maken waar je later cement overheen kon doen. Dit zorgde ervoor dat er mozaïek ontstaat.
 
 
-## De opdracht en pakken van de steentjes
+## De opdracht en het pakken van de steentjes
 
-Tijdens de uitleg kreeg ik meteen een idee, ik wil graag iets met de ruimte maken en dan vooral sterren. 
+Tijdens de uitleg kreeg ik meteen een idee: ik wil graag iets met de ruimte maken en dan vooral sterren. 
 
-1. Eerst kregen we een base van MDF, hier moest je alles op gaan plakken waar je later de cement over heen deed. 
+1. Eerst kregen we een basis van MDF; hier moest je alles op gaan plakken waar je later het cement overheen deed. 
 
-2. Gelukkig hadden we de optie uit veel dingen, dus heb ik verschillende steentjes gepakt. Zowel van plastic als van steen zelf. Deze kleuren kon ik goed gebruiken voor mijn idee. 
+2. Gelukkig hadden we de keuze uit veel dingen, dus heb ik verschillende steentjes gepakt. Zowel van plastic als van steen zelf. Deze kleuren kon ik goed gebruiken voor mijn idee. 
 
 ![foto van de gepakte steentjes](/images/mozaiek7965.jpeg)
 
-## Maken van de 3d print
+## Maken van de 3D-print
 
-3. Iets dat ik graag wou proberen was het kijken of ik een 3d print kan gebruiken, en hoe het met het cement samenkomt dus heb ik een 3D model gevonden die hier aan voldeet. Het is een zon geworden.
+3. Iets dat ik graag wilde proberen, was kijken of ik een 3D-print kon gebruiken en hoe dat met het cement samenkomt. Dus heb ik een 3D-model gevonden dat hieraan voldeed. Het is een zon geworden.
 
-![foto van de 3d printer](/images/mozaiek7966.jpeg)
+![foto van de 3D-printer](/images/mozaiek7966.jpeg)
 
-4. Ik had aan een medewerker van het makerslab gevraagd welke kleuren er beschikbaar waren voor de 3d print, helaas was geel en oranje niet beschikbaar, dus ben ik voor een rode kleur gegaan.
+4. Ik had aan een medewerker van het Makerslab gevraagd welke kleuren er beschikbaar waren voor de 3D-print. Helaas waren geel en oranje niet beschikbaar, dus ben ik voor een rode kleur gegaan.
 
-## Plakken van de steentjes en 3d
+## Plakken van de steentjes en 3D
 
-5. De print duurde 43 minuten dus was het tijd om verder te gaan met de steentjes voor de mozaiek. 
+5. De print duurde 43 minuten, dus was het tijd om verder te gaan met de steentjes voor het mozaïek. 
 
 ![foto van de print](/images/mozaiek7968.jpeg)
 
-6. In de tussentijd had ik definitief de steentjes uitgekozen, dit gaan veel kleine steentjes zijn die als sterren gaan dienen en een paar gele steentjes die als de warmte van de zon eruit zien. 
+6. In de tussentijd had ik definitief de steentjes uitgekozen. Dit gaan veel kleine steentjes zijn die als sterren dienen en een paar gele steentjes die eruitzien als de warmte van de zon. 
 
 ![de verzamelde steentjes](/images/mozaiek7969.jpeg)
 
-7. Daarna was het tijd om de steentjes vast te maken aan de basisplaat, dit was best een gedoe omdat het veel kleine steentjes waren. Deze moesten individueel vast worden gemaakt, dus dit duurde best lang.
+7. Daarna was het tijd om de steentjes vast te maken aan de basisplaat. Dit was best een gedoe omdat het veel kleine steentjes waren. Deze moesten individueel vast worden gemaakt, dus dit duurde best lang.
 
 
-8. Inmiddels was de 3D print klaar! Dus deze kon ik eruit pakken en op de basisplaat plakken. 
+8. Inmiddels was de 3D-print klaar! Dus deze kon ik eruit pakken en op de basisplaat plakken. 
    
-![De 3d print](/images/mozaiek7970.jpeg)
+![De 3D-print](/images/mozaiek7970.jpeg)
 
-9. Hierbij heb ik ook de gele steentjes erbij geplakt, deze dienen als warmte van de zon.
+9. Hierbij heb ik ook de gele steentjes erbij geplakt; deze dienen als warmte van de zon.
    
-![De 3d print op de base](/images/mozaiek7971.jpeg)
+![De 3D-print op de base](/images/mozaiek7971.jpeg)
    
 ## Het cement erop doen
 
-10. Toen was het tijd om de cement erop te doen, eerst moest je wat cementpoeder in een bakje doen en wat water erbij. Als je dan even roerde ging het mixen en was het klaar om over je kunstwerk te doen.
+10. Toen was het tijd om het cement erop te doen. Eerst moest je wat cementpoeder in een bakje doen en wat water erbij. Als je dan even roerde, ging het mixen en was het klaar om over je kunstwerk te doen.
   
 ![cement erop doen](/images/mozaiek7972.jpeg)
 
-11. Dit was geen succes omdat er zoveel steentjes op zaten dat het uitsmeren heel moeilijk werd. Ook werd de 3d geprinte zon ineens bedekt met cement. Iets wat ik nog had toegevoegd was PLA snippers, dit paste er perfect bij.
+11. Dit was geen succes omdat er zoveel steentjes op zaten dat het uitsmeren heel moeilijk werd. Ook werd de 3D-geprinte zon ineens bedekt met cement. Iets wat ik nog had toegevoegd waren PLA-snippers; dit paste er perfect bij.
 
 ![cement erop doen](/images/mozaiek7973.jpeg)
 
-12. Na een tijdje was het gedroogd en kon ik de steentjes met een natte doen schoonmaken, het zag er redelijk uit maar nog steeds niet goed. Ik had de cement niet moeten gebruiken.
+12. Na een tijdje was het gedroogd en kon ik de steentjes met een natte doek schoonmaken. Het zag er redelijk uit, maar nog steeds niet goed. Ik had het cement niet moeten gebruiken.
     
 ![cement erop doen](/images/mozaiek7974.jpeg)
 
 
 ## Wat ging er fout?
 
-Er gingen tijdens dit proces een paar dingen fout, zo had ik niet de juiste kleur PLA en 
+Er gingen tijdens dit proces een paar dingen fout. Zo had ik niet de juiste kleur PLA voor de zon beschikbaar (geel of oranje), waardoor ik moest uitwijken naar rood. Daarnaast was het cementeren van de kleine steentjes een grote uitdaging; het cement was te dik en bedekte de details van zowel de steentjes als de 3D-print, waardoor het eindresultaat minder strak werd dan gehoopt.
 
 ## Hoe heb ik getinkerd?
+
+Ik heb getinkerd door tijdens het proces mijn plannen aan te passen op basis van de materialen. Toen de zon bedekt raakte door het cement, heb ik PLA-snippers toegevoegd om een nieuwe textuur en kleurlaag te creëren. Ook heb ik geëxperimenteerd met de combinatie van 3D-geprinte kunststof en traditioneel mozaïek om te zien hoe deze twee verschillende werelden op elkaar zouden reageren.
+
+## Tinkermoment 1
+
+### Wat ging er fout?
+Ik wilde een zon printen met geel of oranje PLA, maar die kleuren hadden ze niet om te printen.
+
+### Welke inspiratie kreeg je van deze fout?
+Ik sloeg een andere richting in, een zon in een andere kleur kon ook prima werken zolang hij de vorm maar heeft.
+
+### Laat zien hoe jij je inspiratie hebt toegepast
+Ik heb de zon in het rood geprint en speciaal gele en blauw/paarse steentjes uitgezocht. Hierdoor kon ik de zon en wat sterren maken.
+
+## Tinkermoment 2
+
+### Wat ging er fout?
+Toen ik het cement op de base met steentjes deed werd het heel erg lelijk en was het erg wit. Niet helemaal wat ik had gewilt.
+
+### Welke inspiratie kreeg je van deze fout?
+Ik zag dat anderen PLA snippers gebruikte op hun cement, dit zag er best gaaf uit.
+
+### Laat zien hoe jij je inspiratie hebt toegepast
+Dus heb ik deze PLA snippers gebruikt en boven op mijn mozaiek gedaan, door deze random uit te smeren kreeg je wel een mooi effect.
+
+## Tinkermoment 3
+
+### Wat ging er fout?
+Toen het een beetje klaar was met drogen zag ik dat veel steentjes onder de cement zaten, dit was niet best.
+
+### Welke inspiratie kreeg je van deze fout?
+Ik moest snel wat doen om wel mijn effect te behouden dus ging bij anderen vragen wat ze hebben gedaan.
+
+### Laat zien hoe jij je inspiratie hebt toegepast
+Ik ben met een natte doek heel voorzichtig over de steentjes en de 3d print heengegaan. Hierdoor werden de steentjes steeds schoner en waren ze beter te zien.
 
 
 ## Video van eindresultaat
@@ -83,7 +118,7 @@ Er gingen tijdens dit proces een paar dingen fout, zo had ik niet de juiste kleu
   window.addEventListener('DOMContentLoaded', () => {
     const jsConfetti = new JSConfetti();
     jsConfetti.addConfetti({
-      emojis: ['⚪️', '🎨', '⭐️'],
+      emojis: ['⚪️', '🎨', '⭐️', '☀️', '🌌'],
       emojiSize: 50,
       confettiNumber: 30,
     });

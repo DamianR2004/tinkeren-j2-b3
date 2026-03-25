@@ -11,26 +11,26 @@ image:
 Voor deze opdracht moesten we een insect maken met motoren en ze laten vechten in een arena.
 
 
-## Bedenken van idee em maken. 
+## Bedenken van idee en maken. 
 
-Ik ging het deze keer anders aanpakken, in plaats van het bedenken van een plan ging ik nu kijken naar de materialen en daar wat random dingen van pakken. Daarna keek ik wel verder hoe ik het wou aanpakken.
+Ik ging het deze keer anders aanpakken: in plaats van het bedenken van een plan, ging ik nu kijken naar de materialen en daar wat willekeurige dingen van pakken. Daarna keek ik wel verder hoe ik het wilde aanpakken.
 
-1. Bij de tafel met motoren heb ik een batterij, een motor en een propellor gepakt. Dit ging de basis van het insect worden.
+1. Bij de tafel met motoren heb ik een batterij, een motor en een propeller gepakt. Dit ging de basis van het insect worden.
 
 2. En bij de tafel met spullen om hem te customizen heb ik ijsstokjes, wat klei en oogjes gepakt.
 
 ![foto van de gebouwen van plywood](/images/castingc7922.jpeg)
 
-3. Mijn eerste idee was om het insect te laten bewegen doormiddel van de motor en propeller, dit werkte helaas niet omdat de motor uitging voor de veiligheid.
+3. Mijn eerste idee was om het insect te laten bewegen door middel van de motor en propeller. Dit werkte helaas niet omdat de motor uitging voor de veiligheid.
 
 ![foto van hout en de lijnen](/images/castingc7924.jpeg)
 
-4. Toen heb ik het idee omgegooid en ging het gebruiken als een soort sweeper, dan draait hij de hele tijd rond en kan je andere insecten raken.
+4. Toen heb ik het idee omgegooid en ben ik het gaan gebruiken als een soort sweeper; dan draait hij de hele tijd rond en kun je andere insecten raken.
 ![resultaat van het zagen](/images/castingc7925.jpeg)
 
-5. Om dit te doen heb ik ijsstokjes aan elke kant van de propellor vastgemaakt.
+5. Om dit te doen heb ik ijsstokjes aan elke kant van de propeller vastgemaakt.
 
-6. Het insect had natuurlijk nog een hoofd nodig, dit heb ik met wat klei en de oogjes gemaakt. 
+6. Het insect had natuurlijk nog een hoofd nodig. Dit heb ik met wat klei en de oogjes gemaakt. 
 
 ![resultaat van het zagen en boren](/images/castingc7926.jpeg)
 
@@ -43,14 +43,14 @@ Ik ging het deze keer anders aanpakken, in plaats van het bedenken van een plan 
 ![De skyline zit op een houten base vast](/images/castingc7928.jpeg)
    
 
-9. Daarna kan ik de batterij vastmaken met plakband en zat deze goed vast.
+9. Daarna kon ik de batterij vastmaken met plakband en zat deze goed vast.
 
-![eerste keer de vacuummachine gebruiken](/images/castingc7929.jpeg)
+![eerste keer de vacuümmachine gebruiken](/images/castingc7929.jpeg)
 
-10. Ik had nog een stukje uitgesneden voor de onderkant, hier moesten dan pootjes aan vastkomen.
+10. Ik had nog een stukje uitgesneden voor de onderkant; hier moesten dan pootjes aan vastkomen.
 
 
-11. Dit heb ik met klei gedaan, dit had ik alleen niet moeten doen omdat ze er steeds vanaf vielen.
+11. Dit heb ik met klei gedaan. Dit had ik alleen niet moeten doen, omdat ze er steeds vanaf vielen.
 
 ![pan](/images/castingc7952.jpeg)
 
@@ -64,13 +64,38 @@ Ik ging het deze keer anders aanpakken, in plaats van het bedenken van een plan 
 14. Toen was hij klaar!
 
 
-## Wat ging er fout?
+## Tinkermoment 1
 
-Niet alles ging goed tijdens dit proces, wat niet erg was. Zo ging er in stap 4 en 5 wat mis, ik had niet goed gezaagd waardoor het erg lelijk was. Ook ging het chocolade er niet goed uit omdat er te weinig in zat.
+### Wat ging er fout?
+Mijn eerste idee was om de propeller te gebruiken om het insect te laten loppen of rollen. Dit werkte niet omdat de motor steeds uitviel door het veiligheidsmechanisme. Dus dit was geen goed idee.
 
-## Hoe heb ik getinkerd?
+### Welke inspiratie kreeg je van deze fout?
+Ik ging kijken naar de andere insecten die werden gemaakt en kwam erachter dat ik hem ook als wapen kon inzetten als ik er ijsstokjes aan vast maakte, dit kon later werken in de arena.
 
-Ik heb uiteindelijk anders gedacht, in plaats van dat ik in stap 5 opnieuw ging beginnen ging ik anders denken. Zo kwam ik op het idee om wolken en sterren in de lucht te maken. En voor de chocola om de huisjes apart te doen zodat ik kleine chocolaatjes had. 
+### Laat zien hoe jij je inspiratie hebt toegepast
+Ik heb ijsstokjes aan de propeller gemaakt zodat hij nu erg uitsteekt als hij ronddraaid. Hiermee kan je de andere insecten raken.
+
+## Tinkermoment 2
+
+### Wat ging er fout?
+Ik probeerde de pootjes van het insect te maken met klei. Dit zag er leuk uit, maar het bleef totaal niet zitten op de houten onderkant en ze vielen er steeds vanaf.
+
+### Welke inspiratie kreeg je van deze fout?
+Ik moest kijken naar ander materiaal dat wel stevig genoeg was maar ook makkelijk te maken. 
+
+### Laat zien hoe jij je inspiratie hebt toegepast
+Dus heb ik een klein plateautje gemaakt met die ijsstokjes en wat tape, hierdoor stond hij stevig vast en rolde hij niet om.
+
+## Tinkermoment 3
+
+### Wat ging er fout?
+De batterij en de kabeltjes zaten heel erg los, dit zorgde ervoor dat de stroom er elke keer vanaf viel. Dit omdat het draadje van de connector losging.
+
+### Welke inspiratie kreeg je van deze fout?
+Ik dacht dat ik de lasersnijder kon gebruiken om hem steviger te maken. Dit was dan een soort buitenkant waar alles stevig vast zat.
+
+### Laat zien hoe jij je inspiratie hebt toegepast
+Ik heb een houten base gemaakt en gelaserd met de lasersnijder. Hierin kon ik de batterij aan vast maken en de kabels eronder verstoppen.
 
 ## Video van eindresultaat
 
@@ -78,18 +103,13 @@ Ik heb uiteindelijk anders gedacht, in plaats van dat ik in stap 5 opnieuw ging 
 
 ### Feedback
 
-Samen met Zoë hebben we peer feedback aan elkaar gegeven, hier de resultaten.
-
-- Vond het goed bedacht dat je tijdens het eruit halen van de chocolade gewoon genoegen hebt genomen met wat er wel uitkwam en daarmee kleine chocolaatjes hebt gemaakt. 
-- ik vond het een goed experiment dat je tijdens het zagen erachter kwam dat het niet goed ging en gebruik maakte van wat er fout ging, door wolken te maken inplaats van een rechte lijn. 
-- je hebt met het hout voornamelijk 1 dikte gebruikt waardoor het ook fout ging met het vacuüm, misschien een idee om de volgende keer ook met verschillende diktes te spelen
 
 <script src="/js/js-confetti.js"></script>
 <script>
   window.addEventListener('DOMContentLoaded', () => {
     const jsConfetti = new JSConfetti();
     jsConfetti.addConfetti({
-      emojis: ['🍫', '🍫', '🪵', '⚒️', '🏢'],
+      emojis: ['🪲', '🪳', '🤖', '⚙️', '🔋'],
       emojiSize: 50,
       confettiNumber: 30,
     });

@@ -9,69 +9,110 @@ image:
 
 ## Wat is de opdracht?
 
-In deze opdracht moesten we met van een paper circuit lampjes laten branden. 
+In deze opdracht moesten we met een paper circuit lampjes laten branden. 
 
 
-## Bedenken van idee em maken. 
+## Bedenken van idee en maken. 
 
-Ik ging het deze keer anders aanpakken, in plaats van het bedenken van een plan ging ik nu kijken naar de materialen en daar wat random dingen van pakken. Daarna keek ik wel verder hoe ik het wou aanpakken.
 
-1. Bij de tafel met motoren heb ik een batterij, een motor en een propellor gepakt. Dit ging de basis van het insect worden.
+1. Eerst heb ik een batterij, een lampje en wat kopertape gepakt.
 
-2. En bij de tafel met spullen om hem te customizen heb ik ijsstokjes, wat klei en oogjes gepakt.
+2. Daarna ben ik gaan denken wat ik deze keer ging maken; mijn idee was een strand met een vuurtoren in de nacht. 
 
 ![foto van de gebouwen van plywood](/images/castingc7922.jpeg)
 
-3. Mijn eerste idee was om het insect te laten bewegen doormiddel van de motor en propeller, dit werkte helaas niet omdat de motor uitging voor de veiligheid.
+3. Hierna heb ik meer papier gepakt om het een beetje uit te tekenen. Ook wilde ik graag sterren maken op de achtergrond.
 
 ![foto van hout en de lijnen](/images/castingc7924.jpeg)
 
-4. Toen heb ik het idee omgegooid en ging het gebruiken als een soort sweeper, dan draait hij de hele tijd rond en kan je andere insecten raken.
+4. Om het zand te maken heb ik een geel schoonmaakdoekje gepakt.
 ![resultaat van het zagen](/images/castingc7925.jpeg)
 
-5. Om dit te doen heb ik ijsstokjes aan elke kant van de propellor vastgemaakt.
+5. En voor de zee een stuk papier. In het Makerslab hadden ze speciale soorten papier en deze had al ribbeltjes en golfjes erin, vandaar dat ik deze had uitgekozen.
 
-6. Het insect had natuurlijk nog een hoofd nodig, dit heb ik met wat klei en de oogjes gemaakt. 
+6. Om de vuurtoren te maken heb ik wat kleurpapier gepakt en een SVG van SVGRepo gepakt.
 
 ![resultaat van het zagen en boren](/images/castingc7926.jpeg)
 
-7. Vervolgens moest ik een base maken waar ik de batterij kon vastmaken en de kabels kon verstoppen. 
+7. Vervolgens heb ik alles uitgesneden met de lasersnijder, dit omdat ik anders scheef zou knippen. Ik heb zowel zwart als rood papier gebruikt voor de vuurtoren en een golf voor het blauwe papier.
 
 ![De skyline zit op een houten base vast](/images/castingc7927.jpeg)
 
-8. Hiervoor had ik een houten stuk in de lasersnijder gedaan en een vierkant uitgetekend.
+8. Hier ging wel iets fout: ik had al wat testjes gedaan met de kopertape en een gevouwen papiertje. Het lampje kreeg wel stroom, maar ik vond het er niet mooi uitzien.
    
 ![De skyline zit op een houten base vast](/images/castingc7928.jpeg)
    
 
-9. Daarna kan ik de batterij vastmaken met plakband en zat deze goed vast.
+9. In plaats van het te fixen heb ik iets anders gedaan, namelijk een strandbal maken en deze gebruiken als "knop" om de lamp te laten werken. 
 
 ![eerste keer de vacuummachine gebruiken](/images/castingc7929.jpeg)
 
-10. Ik had nog een stukje uitgesneden voor de onderkant, hier moesten dan pootjes aan vastkomen.
+10. Deze heb ik gemaakt door losse stukjes papier aan elkaar te lijmen. Ook heb ik een stuk uit het schoonmaakdoekje gelaserd.
 
 
-11. Dit heb ik met klei gedaan, dit had ik alleen niet moeten doen omdat ze er steeds vanaf vielen.
+11. Omdat ik te veel had geëxperimenteerd, kon ik hem deze les niet afmaken.
 
-![pan](/images/castingc7952.jpeg)
+## Nog eens proberen
 
-12. Dus heb ik maar een base gemaakt met ijsstokjes en een stuk tape.
+12. Ik ben later verder gegaan met de opdracht en heb daar de banen van de kopertape gemaakt. 
 
 ![pan met chocola](/images/castingc7953.jpeg)
 
-13. Tenslotte heb ik hem nog wat mooier gemaakt met wat pootjes, een kapsel en wat veren. 
-![pan met gesmolten chocola](/images/castingc7954.jpeg)
+13. Omdat ik maar één lampje had, moest ik een deel weghalen. Dit was jammer omdat ik graag meerdere lampjes had willen gebruiken.
 
-14. Toen was hij klaar!
+14. Dus ben ik maar verder gegaan met het verbinden van één lampje.
 
+15. Eerst heb ik de batterij neergelegd en het zand, de golf, het lampje en de vuurtoren vastgelijmd.
+
+16. Dit ging goed en de verbinding werkte nog steeds!
+
+
+17. Omdat hij niet af was zonder de sterren, heb ik deze op een andere manier toegevoegd. Eerst heb ik van hout sterren gemaakt en daar nog sterren van acrylaat opgelegd.
+
+18. Alles getest en dit was het eindresultaat!
+
+## Tinkermoment 1
 
 ## Wat ging er fout?
 
-Niet alles ging goed tijdens dit proces, wat niet erg was. Zo ging er in stap 4 en 5 wat mis, ik had niet goed gezaagd waardoor het erg lelijk was. Ook ging het chocolade er niet goed uit omdat er te weinig in zat.
+Ik had dus eerst de verbinding getest door het lampje te verbinden met het kopertape, en dan met een schuin hoekje zodat het lampje ging werken. Het werkte wel alleen vond ik het heel lelijk.
 
-## Hoe heb ik getinkerd?
 
-Ik heb uiteindelijk anders gedacht, in plaats van dat ik in stap 5 opnieuw ging beginnen ging ik anders denken. Zo kwam ik op het idee om wolken en sterren in de lucht te maken. En voor de chocola om de huisjes apart te doen zodat ik kleine chocolaatjes had. 
+## Welke inspiratie kreeg je van deze fout?
+
+Toen besefte ik me dat ik het ook op een hele andere manier kon aanpakken, dus door een button te maken in de vorm van een strandbal. Dit paste heel goed bij het strand.
+
+## Laat zien hoe jij je inspiratie hebt toegepast
+
+Dus ben ik verder gegaan met het maken van een strandbal met losse stukjes papier, door hier kopertape aan vast ta maken zorgde dit voor de + kant van de batterij. Door deze erop te drukken kon het lampje aan gaan.
+
+## Tinkermoment 2
+
+## Wat ging er fout?
+
+Omdat ik tijdens de les zo veel moest lasersnijden en geexperimenteerd had was er geen tijd meer om dit af te maken. Dit moest dus op een later moment. Ook had ik teveel banen met kopertape gemaakt.
+
+## Welke inspiratie kreeg je van deze fout?
+
+Ik ging lekker verder met 1 lampje, zo laat ik zien dat ik het begrijp en zo gaat het ook niet kapot.
+
+## Laat zien hoe jij je inspiratie hebt toegepast
+
+Ik heb een deel van de tape weggehaald en 1 goede verbinding aangelegt, dit zag er ook een stuk mooier uit op het papier. Nu werkte de vuurtoren ook goed.
+
+## Tinkermoment 3
+
+## Wat ging er fout?
+
+Toen ik voor de tweede keer verder ging met de opdracht kwam ik erachter dat ik maar 1 lampje had, degene voor de vuurtoren. Dus ik kon nooit die sterren maken.
+
+## Welke inspiratie kreeg je van deze fout?
+
+Ik ging in het makerslab opzoek naar materiaal en kwam uit op de combinatie van acrylaat en multiplex. Hierdoor krijgen de sterren diepte en zie je ook de reflectie van het licht. 
+
+## Laat zien hoe jij je inspiratie hebt toegepast
+
+Ik heb sterren van hout gelaserd en daar sterren van acrylaat bovenop gelegd. Dit zorgde ervoor dat hij af was.
 
 ## Video van eindresultaat
 
@@ -79,18 +120,13 @@ Ik heb uiteindelijk anders gedacht, in plaats van dat ik in stap 5 opnieuw ging 
 
 ### Feedback
 
-Samen met Zoë hebben we peer feedback aan elkaar gegeven, hier de resultaten.
-
-- Vond het goed bedacht dat je tijdens het eruit halen van de chocolade gewoon genoegen hebt genomen met wat er wel uitkwam en daarmee kleine chocolaatjes hebt gemaakt. 
-- ik vond het een goed experiment dat je tijdens het zagen erachter kwam dat het niet goed ging en gebruik maakte van wat er fout ging, door wolken te maken inplaats van een rechte lijn. 
-- je hebt met het hout voornamelijk 1 dikte gebruikt waardoor het ook fout ging met het vacuüm, misschien een idee om de volgende keer ook met verschillende diktes te spelen
 
 <script src="/js/js-confetti.js"></script>
 <script>
   window.addEventListener('DOMContentLoaded', () => {
     const jsConfetti = new JSConfetti();
     jsConfetti.addConfetti({
-      emojis: ['🍫', '🍫', '🪵', '⚒️', '🏢'],
+      emojis: ['💡', '🔋', '⚡', '🌊', '🗼'],
       emojiSize: 50,
       confettiNumber: 30,
     });

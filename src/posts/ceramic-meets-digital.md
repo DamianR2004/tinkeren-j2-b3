@@ -8,45 +8,36 @@ image:
 
 ## Wat is de opdracht?
 
-Ceramic meets digital gaat over het maken van ceramics maar dan met huidige tools en gereedschappen. Dit maak je met vormpjes en klei.
+Ceramic meets digital gaat over het maken van keramiek, maar dan met huidige tools en gereedschappen. Dit maak je met vormpjes en klei.
 
 
+## Bedenken van idee en maken. 
 
-## Bedenken van idee em maken. 
+Tijdens de presentatie over de opdracht werden verschillende voorbeelden uit de geschiedenis laten zien: hoe het eruitzag en welke vormen zij hadden. Veel van deze ideeën waren bordjes, bekers of andere kunst. Ik wilde deze keer wat anders maken dan normaal, dus ben ik voor een pizza gegaan. 
 
-Tijdens de presentatie over de opdracht werden verschillende voorbeelden uit de geschiedenis laten zien, hoe het eruit zag en welke vormen. Heel veel van deze ideeen waren bordjes, bekers of ander art. Ik wou deze keer wat anders maken dan anders dus ben voor een pizza gegaan. 
+1. Eerst heb ik nagedacht over wat voor dingen er op de pizza kwamen; in mijn geval waren dit tomaten, plakjes salami en kaas.
 
-1. Eerst heb ik na gedacht wat voor dingen er op de pizza kwamen, in mijn geval waren dit tomaten, stukjes salami en kaas.
-
-2. Deze heb ik of van SVGrepo gepakt of zelf gemaakt in Affinity designer. 
+2. Deze heb ik of van SVGRepo gepakt of zelf gemaakt in Affinity Designer. 
 
 ![foto van de gebouwen van plywood](/images/castingc7922.jpeg)
 
-3. Voordat ik deze kon lasersnijden moest ik 2 dingen doen, een houten plaat pakken en daar eva foam op doen. Dit heb ik met lijm gedaan. 
-
-![foto van hout en de lijnen](/images/castingc7924.jpeg)
+3. Voordat ik deze kon lasersnijden, moest ik twee dingen doen: een houten plaat pakken en daar EVA-foam op doen. Dit heb ik met lijm gedaan. 
 
 4. Daarna was het tijd om de vormpjes in te laden in de lasersnijder. 
-![resultaat van het zagen](/images/castingc7925.jpeg)
 
 5. Toen heb ik hem aangezet en lasergesneden. 
 
 ## Kleien.
 
-6. Het tweede deel begon uit het kleien, eerst heb ik een stuk klei gepakt.
+6. Het tweede deel begon met het kleien; eerst heb ik een stuk klei gepakt.
 
-![resultaat van het zagen en boren](/images/castingc7926.jpeg)
+7. En daarna heb ik het met een deegroller rond en plat gerold. 
 
-7. En daarna met een deegroller rond en plat gerold. 
-
-![De skyline zit op een houten base vast](/images/castingc7927.jpeg)
-
-8. In de tussentijd heb ik de vormpjes op stukjes klei gedrukt om een patroon te maken, hier ging wel wat fout aangezien er geen gaten in de kaas of stukjes tomaat zaten.
+8. In de tussentijd heb ik de vormpjes op stukjes klei gedrukt om een patroon te maken. Hier ging wel wat fout, aangezien er geen gaten in de kaas of stukjes tomaat zaten in mijn ontwerp.
    
 ![De skyline zit op een houten base vast](/images/castingc7928.jpeg)
-   
 
-9. Deze stukjes tomaat en kaas heb ik gelaten zoals het was, hier heb ik later nog wat aan gedaabn. 
+9. Deze stukjes tomaat en kaas heb ik gelaten zoals ze waren; hier heb ik later nog wat aan gedaan. 
 
 ![eerste keer de vacuummachine gebruiken](/images/castingc7929.jpeg)
 
@@ -54,17 +45,17 @@ Tijdens de presentatie over de opdracht werden verschillende voorbeelden uit de 
 
 ![opnieuw de vacuummachine gebruiken om de mal te maken](/images/castingc7930.jpeg)
 
-## Verfen
+## Verven
 
-11. Vervolgens ben ik weer verder gegaan met het verven van de salami, kaas en tomaten. Omdat ik het eerder verprutst heb met het maken van de gaatjes waren de ingrdienten nu heel makkelijk om te verfen. Dus was het uiteindelijk geen verkeerde keuze.
+11. Vervolgens ben ik weer verder gegaan met het verven van de salami, kaas en tomaten. Omdat ik het eerder verprutst heb met het maken van de gaatjes, waren de ingrediënten nu heel makkelijk om te verven. Dus was het uiteindelijk geen verkeerde keuze.
 
 ![pan](/images/castingc7952.jpeg)
 
-12. Ook heb ik de bodem rood geverfd, dit moet dan de tomatensaus voorstellen.
+12. Ook heb ik de bodem rood geverfd; dit moet dan de tomatensaus voorstellen.
 
 ![pan met chocola](/images/castingc7953.jpeg)
 
-13. Dit ging perongeluk mis, ik verfde ook een deel van de rand mee terwijl ik dit niet van plan was. Dus in plaats dat ik alles weghaalde heb ik alles maar geverfd.
+13. Dit ging per ongeluk mis: ik verfde ook een deel van de rand mee, terwijl ik dit niet van plan was. Dus in plaats van dat ik alles weghaalde, heb ik alles maar geverfd.
 
 ![pan met gesmolten chocola](/images/castingc7954.jpeg)
 
@@ -72,35 +63,49 @@ Tijdens de presentatie over de opdracht werden verschillende voorbeelden uit de 
 
 ![mal opvullen met chocola](/images/castingc7956.jpeg)
 
-15.  Een week later was dit het resultaat.
+15. Een week later was dit het resultaat.
 
 
-## Wat ging er fout?
+## Tinkermoment 1
 
-Niet alles ging goed tijdens dit proces, wat niet erg was. Zo ging er in stap 4 en 5 wat mis, ik had niet goed gezaagd waardoor het erg lelijk was. Ook ging het chocolade er niet goed uit omdat er te weinig in zat.
+### Wat ging er fout?
+Toen ik de EVA-foam vormpjes in de klei drukte, kwam ik erachter dat ik in de SVGs de gaten in de kaas en de  tomaten was vergeten. De stempels waren dus niet echt heel mooi.
 
-## Hoe heb ik getinkerd?
+### Welke inspiratie kreeg je van deze fout?
+Ik kwam er wel achter dat het verven heel makkelijk ging, dit zag er ook goed uit qua kleur.
 
-Ik heb uiteindelijk anders gedacht, in plaats van dat ik in stap 5 opnieuw ging beginnen ging ik anders denken. Zo kwam ik op het idee om wolken en sterren in de lucht te maken. En voor de chocola om de huisjes apart te doen zodat ik kleine chocolaatjes had. 
+### Laat zien hoe jij je inspiratie hebt toegepast
+Dus heb ik alles geverfd, wel heel dun zodat je details van de ingredienten mooi kon zien.
+
+## Tinkermoment 2
+
+### Wat ging er fout?
+Ik was lekker bezig met het verven van de binnenkant van de pizza om tomatensaus te maken. Maar ik schoot volledig uit.
+
+### Welke inspiratie kreeg je van deze fout?
+Toen ik naar de korst van klei keek zag ik dat deze niet zo heel mooi was, het leek niet op een echte pizza. 
+
+### Laat zien hoe jij je inspiratie hebt toegepast
+Ik heb de hele rand van de pizza maar oranje geverfd. Dit zag er nog best grappig uit en zorgde ervoor dat de pizzza er kleurvol uitzag. 
+
+## Kon er maar 2 vinden :(
 
 ## Video van eindresultaat
 
 [Video](https://youtube.com/shorts/DpvVaNV5diY?si=INWS7lv88Lmz9_tD)
 
 ### Feedback
-
-Samen met Zoë hebben we peer feedback aan elkaar gegeven, hier de resultaten.
-
-- Vond het goed bedacht dat je tijdens het eruit halen van de chocolade gewoon genoegen hebt genomen met wat er wel uitkwam en daarmee kleine chocolaatjes hebt gemaakt. 
-- ik vond het een goed experiment dat je tijdens het zagen erachter kwam dat het niet goed ging en gebruik maakte van wat er fout ging, door wolken te maken inplaats van een rechte lijn. 
-- je hebt met het hout voornamelijk 1 dikte gebruikt waardoor het ook fout ging met het vacuüm, misschien een idee om de volgende keer ook met verschillende diktes te spelen
+Samen met Zoë heb ik gekeken naar het werk:
+- Het idee van een pizza is erg origineel vergeleken met de standaard bordjes.
+- Het kleurgebruik is erg fel en spreekt aan.
+- Tip voor de volgende keer: probeer de EVA-foam op een dikker stuk hout te lijmen zodat je meer kracht kunt zetten bij het stempelen in de klei.
 
 <script src="/js/js-confetti.js"></script>
 <script>
   window.addEventListener('DOMContentLoaded', () => {
     const jsConfetti = new JSConfetti();
     jsConfetti.addConfetti({
-      emojis: ['🍫', '🍫', '🪵', '⚒️', '🏢'],
+      emojis: ['🍕', '🍅', '🧀', '🎨', '🖌️'],
       emojiSize: 50,
       confettiNumber: 30,
     });
