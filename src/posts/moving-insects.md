@@ -17,52 +17,50 @@ Ik ging het deze keer anders aanpakken: in plaats van het bedenken van een plan,
 
 1. Bij de tafel met motoren heb ik een batterij, een motor en een propeller gepakt. Dit ging de basis van het insect worden.
 
-2. En bij de tafel met spullen om hem te customizen heb ik ijsstokjes, wat klei en oogjes gepakt.
+![motor](/images/motor.jpeg)
 
-![foto van de gebouwen van plywood](/images/castingc7922.jpeg)
+2. En bij de tafel met spullen om hem te customizen heb ik ijsstokjes, wat klei en oogjes gepakt.
 
 3. Mijn eerste idee was om het insect te laten bewegen door middel van de motor en propeller. Dit werkte helaas niet omdat de motor uitging voor de veiligheid.
 
-![foto van hout en de lijnen](/images/castingc7924.jpeg)
-
 4. Toen heb ik het idee omgegooid en ben ik het gaan gebruiken als een soort sweeper; dan draait hij de hele tijd rond en kun je andere insecten raken.
-![resultaat van het zagen](/images/castingc7925.jpeg)
 
 5. Om dit te doen heb ik ijsstokjes aan elke kant van de propeller vastgemaakt.
 
 6. Het insect had natuurlijk nog een hoofd nodig. Dit heb ik met wat klei en de oogjes gemaakt. 
 
-![resultaat van het zagen en boren](/images/castingc7926.jpeg)
+![resultaat van het zagen](/images/sweepert.jpeg)
 
 7. Vervolgens moest ik een base maken waar ik de batterij kon vastmaken en de kabels kon verstoppen. 
 
-![De skyline zit op een houten base vast](/images/castingc7927.jpeg)
-
 8. Hiervoor had ik een houten stuk in de lasersnijder gedaan en een vierkant uitgetekend.
    
-![De skyline zit op een houten base vast](/images/castingc7928.jpeg)
+![base](/images/base2.jpeg)
+![base](/images/base.jpeg)
    
 
 9. Daarna kon ik de batterij vastmaken met plakband en zat deze goed vast.
 
-![eerste keer de vacuümmachine gebruiken](/images/castingc7929.jpeg)
+![base](/images/base3.jpeg)
 
 10. Ik had nog een stukje uitgesneden voor de onderkant; hier moesten dan pootjes aan vastkomen.
 
 
 11. Dit heb ik met klei gedaan. Dit had ik alleen niet moeten doen, omdat ze er steeds vanaf vielen.
 
-![pan](/images/castingc7952.jpeg)
+![base](/images/base4.jpeg)
 
 12. Dus heb ik maar een base gemaakt met ijsstokjes en een stuk tape.
 
-![pan met chocola](/images/castingc7953.jpeg)
+![base](/images/base5.jpeg)
 
 13. Tenslotte heb ik hem nog wat mooier gemaakt met wat pootjes, een kapsel en wat veren. 
-![pan met gesmolten chocola](/images/castingc7954.jpeg)
+
+![base](/images/base7.jpeg)
 
 14. Toen was hij klaar!
 
+![base](/images/finalinsect.jpeg)
 
 ## Tinkermoment 1
 

@@ -3,7 +3,7 @@ title: Ceramic meets digital
 date: 2026-03-11
 layout: post.njk
 slug: ceramic-meets-digital
-image:
+image: /images/pizza.jpeg
 ---
 
 ## Wat is de opdracht?
@@ -19,11 +19,19 @@ Tijdens de presentatie over de opdracht werden verschillende voorbeelden uit de 
 
 2. Deze heb ik of van SVGRepo gepakt of zelf gemaakt in Affinity Designer. 
 
-![foto van de gebouwen van plywood](/images/castingc7922.jpeg)
+![svg](/images/affinitytomaat.jpeg)
 
 3. Voordat ik deze kon lasersnijden, moest ik twee dingen doen: een houten plaat pakken en daar EVA-foam op doen. Dit heb ik met lijm gedaan. 
 
+![](/images/lijmbase.jpeg)
+![](/images/EVAFOAM.jpeg)
+
 4. Daarna was het tijd om de vormpjes in te laden in de lasersnijder. 
+
+![](/images/evafoamlasersnijder.jpeg)
+![](/images/vormpjeslaser.jpeg)
+![](/images/vormpjes.jpeg)
+
 
 5. Toen heb ik hem aangezet en lasergesneden. 
 
@@ -31,39 +39,37 @@ Tijdens de presentatie over de opdracht werden verschillende voorbeelden uit de 
 
 6. Het tweede deel begon met het kleien; eerst heb ik een stuk klei gepakt.
 
+![](/images/klei.jpeg)
+
 7. En daarna heb ik het met een deegroller rond en plat gerold. 
 
+![](/images/kleigerold.jpeg)
+
 8. In de tussentijd heb ik de vormpjes op stukjes klei gedrukt om een patroon te maken. Hier ging wel wat fout, aangezien er geen gaten in de kaas of stukjes tomaat zaten in mijn ontwerp.
-   
-![De skyline zit op een houten base vast](/images/castingc7928.jpeg)
 
 9. Deze stukjes tomaat en kaas heb ik gelaten zoals ze waren; hier heb ik later nog wat aan gedaan. 
 
-![eerste keer de vacuummachine gebruiken](/images/castingc7929.jpeg)
-
 10. Wel heb ik alvast de rondjes en stukjes kaas uitgesneden met een stanleymesje.
-
-![opnieuw de vacuummachine gebruiken om de mal te maken](/images/castingc7930.jpeg)
 
 ## Verven
 
 11. Vervolgens ben ik weer verder gegaan met het verven van de salami, kaas en tomaten. Omdat ik het eerder verprutst heb met het maken van de gaatjes, waren de ingrediënten nu heel makkelijk om te verven. Dus was het uiteindelijk geen verkeerde keuze.
 
-![pan](/images/castingc7952.jpeg)
+![](/images/salamiverven.jpeg)
 
 12. Ook heb ik de bodem rood geverfd; dit moet dan de tomatensaus voorstellen.
 
-![pan met chocola](/images/castingc7953.jpeg)
+![](/images/tomatensaus.jpeg)
 
-13. Dit ging per ongeluk mis: ik verfde ook een deel van de rand mee, terwijl ik dit niet van plan was. Dus in plaats van dat ik alles weghaalde, heb ik alles maar geverfd.
-
-![pan met gesmolten chocola](/images/castingc7954.jpeg)
+13.  Dit ging per ongeluk mis: ik verfde ook een deel van de rand mee, terwijl ik dit niet van plan was. Dus in plaats van dat ik alles weghaalde, heb ik alles maar geverfd.
 
 14. Tijd om alles weg te leggen en te laten drogen.
 
-![mal opvullen met chocola](/images/castingc7956.jpeg)
+![](/images/geverfd.jpeg)
 
 15. Een week later was dit het resultaat.
+
+![](/images/pizza.jpeg)
 
 
 ## Tinkermoment 1
