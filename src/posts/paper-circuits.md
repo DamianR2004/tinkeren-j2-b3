@@ -19,57 +19,71 @@ In deze opdracht moesten we met een paper circuit lampjes laten branden.
 
 2. Daarna ben ik gaan denken wat ik deze keer ging maken; mijn idee was een strand met een vuurtoren in de nacht. 
 
-![foto van de gebouwen van plywood](/images/castingc7922.jpeg)
-
 3. Hierna heb ik meer papier gepakt om het een beetje uit te tekenen. Ook wilde ik graag sterren maken op de achtergrond.
 
-![foto van hout en de lijnen](/images/castingc7924.jpeg)
+![foto van de schets](/images/LHSCHETS.jpeg)
 
 4. Om het zand te maken heb ik een geel schoonmaakdoekje gepakt.
-![resultaat van het zagen](/images/castingc7925.jpeg)
+   
+![schoonmaakdoekje](/images/schoonmaakdoek.jpeg)
 
 5. En voor de zee een stuk papier. In het Makerslab hadden ze speciale soorten papier en deze had al ribbeltjes en golfjes erin, vandaar dat ik deze had uitgekozen.
 
+![golfpapier](/images/golfpapier.jpeg)
+
 6. Om de vuurtoren te maken heb ik wat kleurpapier gepakt en een SVG van SVGRepo gepakt.
 
-![resultaat van het zagen en boren](/images/castingc7926.jpeg)
+![svgrepo ingeladen](/images/svglighthouse.jpeg)
 
 7. Vervolgens heb ik alles uitgesneden met de lasersnijder, dit omdat ik anders scheef zou knippen. Ik heb zowel zwart als rood papier gebruikt voor de vuurtoren en een golf voor het blauwe papier.
 
-![De skyline zit op een houten base vast](/images/castingc7927.jpeg)
+![papier wordt gesneden](/images/lasersnijdpapier.jpeg)
 
 8. Hier ging wel iets fout: ik had al wat testjes gedaan met de kopertape en een gevouwen papiertje. Het lampje kreeg wel stroom, maar ik vond het er niet mooi uitzien.
-   
-![De skyline zit op een houten base vast](/images/castingc7928.jpeg)
-   
 
 9. In plaats van het te fixen heb ik iets anders gedaan, namelijk een strandbal maken en deze gebruiken als "knop" om de lamp te laten werken. 
 
-![eerste keer de vacuummachine gebruiken](/images/castingc7929.jpeg)
-
 10. Deze heb ik gemaakt door losse stukjes papier aan elkaar te lijmen. Ook heb ik een stuk uit het schoonmaakdoekje gelaserd.
+
+![strandbal](/images/beachball.jpeg)
+![schoonmaak doek laser](/images/schoonmaak.jpeg)
 
 
 11. Omdat ik te veel had geëxperimenteerd, kon ik hem deze les niet afmaken.
+
+
+![versie 1](/images/PCverise1.jpeg)
 
 ## Nog eens proberen
 
 12. Ik ben later verder gegaan met de opdracht en heb daar de banen van de kopertape gemaakt. 
 
-![pan met chocola](/images/castingc7953.jpeg)
+![kopertape banen](/images/kopertapev1.jpeg)
 
-13. Omdat ik maar één lampje had, moest ik een deel weghalen. Dit was jammer omdat ik graag meerdere lampjes had willen gebruiken.
+13.  Omdat ik maar één lampje had, moest ik een deel weghalen. Dit was jammer omdat ik graag meerdere lampjes had willen gebruiken.
 
-14. Dus ben ik maar verder gegaan met het verbinden van één lampje.
+14.  Dus ben ik maar verder gegaan met het verbinden van één lampje.
 
-15. Eerst heb ik de batterij neergelegd en het zand, de golf, het lampje en de vuurtoren vastgelijmd.
+![](/images/voordelighthouse.jpeg)
 
-16. Dit ging goed en de verbinding werkte nog steeds!
+15.  Eerst heb ik de batterij neergelegd en het zand, de golf, het lampje en de vuurtoren vastgelijmd.
+  
+![](/images/lijmpistoolPC.jpeg)
 
+16.  Dit ging goed en de verbinding werkte nog steeds!
+
+![](/images/v2paper.jpeg)
 
 17. Omdat hij niet af was zonder de sterren, heb ik deze op een andere manier toegevoegd. Eerst heb ik van hout sterren gemaakt en daar nog sterren van acrylaat opgelegd.
 
+![](/images/sterretjeSVG.jpeg)
+![](/images/sterretjesnijden.jpeg)
+![](/images/sterretjesgesneden.jpeg)
+
 18. Alles getest en dit was het eindresultaat!
+
+![](/images/pcfinal.jpeg)
+
 
 ## Tinkermoment 1
 
