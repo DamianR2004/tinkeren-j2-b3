@@ -40,3 +40,8 @@ Toen besefte ik me dat ik het ook op een hele andere manier kon aanpakken, dus d
 Dus ben ik verder gegaan met het maken van een strandbal met losse stukjes papier, door hier kopertape aan vast ta maken zorgde dit voor de + kant van de batterij. Door deze erop te drukken kon het lampje aan gaan.
 
 
+### Waarom?
+
+1. Dit was een goed idee omdat ik de hele functie van mijn wezen heb aangepast, dit in plaats van bewegen naar een wapen te brengen
+
+2. Door te denken kreeg ik het idee om een strandbal te gebruiken, perfect voor de strand sfeer die er al was. Dit zorgde er ook voor dat de circuit het ook echt deed.
