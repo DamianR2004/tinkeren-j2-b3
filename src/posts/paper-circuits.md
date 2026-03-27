@@ -130,9 +130,7 @@ Ik heb sterren van hout gelaserd en daar sterren van acrylaat bovenop gelegd. Di
 
 ## Video van eindresultaat
 
-[Video](https://youtube.com/shorts/DpvVaNV5diY?si=INWS7lv88Lmz9_tD)
-
-### Feedback
+[Video](https://youtube.com/shorts/Xjk9GHfMLes?feature=share)
 
 
 <script src="/js/js-confetti.js"></script>

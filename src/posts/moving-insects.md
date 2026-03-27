@@ -97,9 +97,7 @@ Ik heb een houten base gemaakt en gelaserd met de lasersnijder. Hierin kon ik de
 
 ## Video van eindresultaat
 
-[Video](https://youtube.com/shorts/DpvVaNV5diY?si=INWS7lv88Lmz9_tD)
-
-### Feedback
+[Video](https://youtube.com/shorts/Eq6RtggWGsY?feature=share)
 
 
 <script src="/js/js-confetti.js"></script>

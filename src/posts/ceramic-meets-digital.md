@@ -98,7 +98,7 @@ Ik heb de hele rand van de pizza maar oranje geverfd. Dit zag er nog best grappi
 
 ## Video van eindresultaat
 
-[Video](https://youtube.com/shorts/DpvVaNV5diY?si=INWS7lv88Lmz9_tD)
+[Video](https://youtube.com/shorts/b2QKg332csk?feature=share)
 
 ### Feedback
 Samen met Zoë heb ik gekeken naar het werk:

@@ -126,7 +126,7 @@ Toen ik hem uit de koelkast haalde na het stollen was de chocolade niet goed ver
 
 ## Video van eindresultaat
 
-[Video](https://youtube.com/shorts/DpvVaNV5diY?si=INWS7lv88Lmz9_tD)
+[Video](https://youtube.com/shorts/DpvVaNV5diY?feature=share)
 
 ### Videos
 

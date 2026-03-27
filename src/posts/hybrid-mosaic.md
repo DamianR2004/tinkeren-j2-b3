@@ -110,7 +110,7 @@ Ik ben met een natte doek heel voorzichtig over de steentjes en de 3d print heen
 
 ## Video van eindresultaat
 
-[Video](https://youtube.com/shorts/DpvVaNV5diY?si=INWS7lv88Lmz9_tD)
+[Video](https://youtube.com/shorts/-fcbcHJraso?feature=share)
 
 
 <script src="/js/js-confetti.js"></script>
