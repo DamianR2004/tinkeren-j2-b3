@@ -91,7 +91,6 @@ In deze opdracht moesten we met een paper circuit lampjes laten branden.
 
 Ik had dus eerst de verbinding getest door het lampje te verbinden met het kopertape, en dan met een schuin hoekje zodat het lampje ging werken. Het werkte wel alleen vond ik het heel lelijk.
 
-
 ## Welke inspiratie kreeg je van deze fout?
 
 Toen besefte ik me dat ik het ook op een hele andere manier kon aanpakken, dus door een button te maken in de vorm van een strandbal. Dit paste heel goed bij het strand.
